@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/menu_artist"
+            android:icon="@drawable/baseline_person_24"
+            android:title="Artist"
+
+            />
+        <item
+            android:id="@+id/menu_album"
+            android:icon="@drawable/baseline_album_24"
+            android:title="Album"/>
+
+        <item
+            android:id="@+id/menu_track"
+            android:icon="@drawable/baseline_audiotrack_24"
+            android:title="Track"
+            />
+
+
+    </menu>
